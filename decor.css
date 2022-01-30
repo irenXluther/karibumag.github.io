@@ -1,0 +1,37 @@
+body{
+    background: black;
+    color: #ffffffff;
+    font-family:"comic sans ms","helvetica", sans-serif;
+
+}
+h2{
+    color:rgba(233, 142, 23, 0.781);
+}
+header{
+    text-align: center;
+    margin-bottom:80px;
+}
+.titre{
+    display:inline;
+    font-size: 40px;
+    color:rgba(233, 142, 23, 0.781);
+}
+p{
+    line-height:30px;
+    font-size:20;
+}
+ul{
+    line-height:40px;
+    font-size:10;
+}
+li{
+    color: white;
+}
+body a{
+    padding: 8px ;
+    /*text-decoration: none;*/
+}
+body a:hover{
+    color:white;
+    text-decoration: underline;
+}
